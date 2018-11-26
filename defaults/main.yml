@@ -115,4 +115,4 @@ isc_dhcp_scopes: []
   #   range_end: 192.168.250.224
 
 # Defines primary domain name for environment
-isc_dhcp_pri_domain_name: example.org
+isc_dhcp_pri_domain_name: progressoft.cloud
